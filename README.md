@@ -1,3 +1,3 @@
-# Chris Lundberg's Portfolio
+# Quant Finance | Data Science
 
-This is Chris Lundberg's personal project portfolio.
+## Data Science Projects
